@@ -120,7 +120,7 @@ function App() {
       
       
       <AppName>
-      <MovieImage src="/movieicon.png"/>
+      <MovieImage src="/https://cdn-icons-png.flaticon.com/256/3171/3171927.png"/>
         SP Movie App
       </AppName>
 
