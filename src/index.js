@@ -12,7 +12,7 @@ root.render(
     domain="dev-hspe52b8l8xn6bao.us.auth0.com"
     clientId="vJ3feP0kzvfVMoyXkq3I65fqNTEIsVJO"
     authorizationParams={{
-      redirect_uri: window.location.origin
+      redirect_uri: "https://someshpurwar.github.io/Movie-Library-App"
     }}
   >
     <App />

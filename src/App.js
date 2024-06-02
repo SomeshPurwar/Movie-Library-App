@@ -126,7 +126,7 @@ function App() {
 
       {isAuthenticated && <UserName>Welcome {user.name}</UserName>}
 
-      {isAuthenticated?(<Button onClick={() => logout({ logoutParams: { returnTo: window.location.origin } })}>
+      {isAuthenticated?(<Button onClick={() => logout({ logoutParams: { returnTo: "https://someshpurwar.github.io/Movie-Library-App" } })}>
       Log Out
     </Button>):(<Button onClick={() => loginWithRedirect()}>Log In</Button>)}
            
