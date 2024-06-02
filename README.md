@@ -1,5 +1,5 @@
 ### 1. Title
-###This is a movie library web app. Created using react, styled-components, bootstrap, and for authentication, it uses auth0 authentication.
+This is a movie library web app. Created using react, styled-components, bootstrap, and for authentication, it uses auth0 authentication.
 I have used "OMDB API" for movies list.
 ### 2. Functionalities
 ### When You open the web-App, You will redirect to the homepage where you can see a navbar in which there is logo and a login button.
