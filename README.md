@@ -1,4 +1,4 @@
-#Title
+##Title
 This is a movie library web app. Created using react, styled-components, bootstrap, and for authentication, it uses auth0 authentication.
 I have used "OMDB API" for movies list.
 ##Functionalities
