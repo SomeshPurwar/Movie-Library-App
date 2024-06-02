@@ -7,3 +7,4 @@
 ### If you click on any movie then you will see the details of that movie.
 ### If you click in "add to favourite" part then if you are logged in user You will get to see the favourite container where your all favourite movie will be stored, if you are not loogged in user then u will get an alert of "first you have to login".
 ### When You Click on login button you will be shown a login page where u have to insert your email or username and password. If you are a new user you will get an option to sign up in the login page.
+### Link: https://someshpurwar.github.io/Movie-Library-App/
